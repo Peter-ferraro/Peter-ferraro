@@ -33,6 +33,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+### Cloud 
+<div>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
