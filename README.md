@@ -1,10 +1,11 @@
 # Hello, I'm Peter
 <a href="https://www.linkedin.com/in/peter-ferraro-5652552b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I come from a food service background where I took on many roles, learning to adapt quickly and stay cool under pressure. My passion for technology led me to pursue several cybersecurity certifications, and now I’m focused on starting my career as a SOC Analyst. I'm eager to keep learning and contribute to a team that values curiosity and problem-solving.
+I come from a food service background where I took on many roles, learning to adapt quickly and stay cool under pressure. My passion for technology led me to pursue several cybersecurity certifications, and now I’m focused on starting my career as a SOC Analyst.I'm eager to keep learning and contribute to a team that values curiosity and problem-solving.
+
 ## Objective
 
-I am a motivated individual seeking an entry-level SOC Analyst role where I can apply my foundational skills in threat detection and security monitoring, while continuing to grow and learn in a fast-paced, evolving field.
+I am a motivated individual seeking an entry-level SOC Analyst role where I can apply my foundational skills in threat detection and security monitoring, while continuing to grow and learn in a fast-paced, evolving field. I'm eager to keep learning and contribute to a team that values curiosity and problem-solving.
 
 ## Skills
 
