@@ -1,16 +1,12 @@
 # Hello, I'm Peter
 <a href="https://www.linkedin.com/in/peter-ferraro-5652552b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I come from a food service background where I took on many roles, learning to adapt quickly and stay cool under pressure. My passion for technology led me to pursue several cybersecurity certifications, and now I’m focused on starting my career as a SOC Analyst. I'm eager to keep learning and contribute to a team that values curiosity and problem-solving.
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a motivated individual seeking an entry-level SOC Analyst role where I can apply my foundational skills in threat detection and security monitoring, while continuing to grow and learn in a fast-paced, evolving field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +18,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
