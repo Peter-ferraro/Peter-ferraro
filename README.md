@@ -76,3 +76,4 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 ## Projects
 - <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/Peter-ferraro/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a>
