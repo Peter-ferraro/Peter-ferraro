@@ -11,6 +11,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Basic Cybersecurity Engineering               |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
