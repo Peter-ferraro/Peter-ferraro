@@ -18,6 +18,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Incident Response Planning and Execution      | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Vulnerability Management                      | <a href="(https://github.com/Peter-ferraro/Vulnerability-Management-Lab)">Vulnerability Management Lab</a>|
 
 ## Tools
 
