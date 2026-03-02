@@ -31,6 +31,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenVAS-008000?&style=for-the-badge&logo=generic-share&logoColor=white" />
 
 </div>
 
@@ -66,6 +67,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 <div>
     <img src="https://img.shields.io/badge/-Shuffle%20Automation-FF6A00?&style=for-the-badge&logo=shuffle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/osTicket-1877F2?&style=for-the-badge&logo=google-messages&logoColor=white" />
 </div>
 
 ## Certifications
