@@ -18,7 +18,10 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Incident Response Planning and Execution      | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Vulnerability Management                      | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
+| Vulnerability Assessment Lifecycle            | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
+| Asset Hardening                               | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
+| Incident Tracking & Documentation             | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
+| Credentialed Auditing                         | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 
 ## Tools
 
@@ -78,3 +81,4 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 - <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>
 - <a href="https://github.com/Peter-ferraro/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a>
+- <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>
