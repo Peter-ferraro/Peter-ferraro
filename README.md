@@ -22,6 +22,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Asset Hardening                               | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Incident Tracking & Documentation             | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Credentialed Auditing                         | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
+| Adversarial Tactics                           | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
 
 ## Tools
 
