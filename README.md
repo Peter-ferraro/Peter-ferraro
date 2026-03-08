@@ -23,6 +23,9 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Incident Tracking & Documentation             | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Credentialed Auditing                         | <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Adversarial Tactics                           | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
+| Command and Control                           | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
+| Endpoint Telemetry Analysis                   | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
+| Incident Lifecycle Management                 | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
 
 ## Tools
 
