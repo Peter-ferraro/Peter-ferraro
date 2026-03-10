@@ -12,7 +12,7 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Basic Cybersecurity Engineering               | <a href="https://github.com/Peter-ferraro/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a> / <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a> / <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a> / <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Peter-ferraro/SOC-Automation-Lab">SOC Automation Lab</a>|
@@ -26,6 +26,10 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Command and Control                           | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
 | Endpoint Telemetry Analysis                   | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
 | Incident Lifecycle Management                 | <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>|
+| Intrusion Prevention (IPS) Management         | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
+| Detection Engineering                         | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
+| SIEM Tuning                                   | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a> / <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
+| Workflow Automation                           | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab Lab</a>|
 
 ## Tools
 
@@ -89,3 +93,4 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 - <a href="https://github.com/Peter-ferraro/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a>
 - <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>
 - <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>
+- <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>
