@@ -29,7 +29,10 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 | Intrusion Prevention (IPS) Management         | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
 | Detection Engineering                         | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
 | SIEM Tuning                                   | <a href="https://github.com/Peter-ferraro/Detection-Lab/tree/main">Detection Lab</a> / <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
-| Workflow Automation                           | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab Lab</a>|
+| Workflow Automation                           | <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>|
+| EDR Deployment & Configuration                | <a href="https://github.com/Peter-ferraro/EDR-lab">EDR Lab</a>|
+| Threat Hunting                                | <a href="https://github.com/Peter-ferraro/EDR-lab">EDR Lab</a>|
+| Incident Containment & Remediation            | <a href="https://github.com/Peter-ferraro/EDR-lab">EDR Lab</a>|
 
 ## Tools
 
@@ -94,3 +97,4 @@ I am a motivated individual seeking an entry-level SOC Analyst role where I can 
 - <a href="https://github.com/Peter-ferraro/Vulnerability-Management-Lab">Vulnerability Management Lab</a>
 - <a href="https://github.com/Peter-ferraro/Incident-Response-Lab">Incident Response Lab</a>
 - <a href="https://github.com/Peter-ferraro/Intrusion-Prevention-Lab">Intrusion Prevention Lab</a>
+- <a href="https://github.com/Peter-ferraro/EDR-lab">EDR Lab</a>
